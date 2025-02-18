@@ -1,3 +1,3 @@
 # Numpy-Pandas
 
-This repository contains the files o
+This repository contains the files of
